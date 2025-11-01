@@ -4,6 +4,7 @@
 
 This project involves a comprehensive analysis of Amazon sales data to uncover key business insights, track performance metrics, and identify trends across products, channels, and time periods.
 The analysis is presented through an interactive Tableau dashboard that visualizes sales performance, profitability, and operational efficiency.
+Here is the project's link:https://public.tableau.com/app/profile/abdullah.fathy/viz/Amazon_sales_17506666672870/Overview
 
 ## 🎯 Objectives
 
