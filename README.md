@@ -20,14 +20,14 @@ The analysis is presented through an interactive Tableau dashboard that visualiz
 ## 💡 Key Insights
 
 ##📈 Revenue & Operations
-  -Discovered a strong inverse relationship between shipment days and revenue - longer delivery times directly correlate with decreased sales
+-Discovered a strong inverse relationship between shipment days and revenue - longer delivery times directly correlate with decreased sales
 
-  -Revenue increased significantly when shipment days were reduced (2016-2017 period)
+-Revenue increased significantly when shipment days were reduced (2016-2017 period)
 
-  -Online sales channel generated approximately 75% of total revenue ($4.2M online vs $1.5M offline)
+-Online sales channel generated approximately 75% of total revenue ($4.2M online vs $1.5M offline)
 
-  ##🏆 Product Performance
-  -Cosmetics emerged as the highest-profit category ($1.11M)
+##🏆 Product Performance
+-Cosmetics emerged as the highest-profit category ($1.11M)
 
 -Beverages and Personal Care also showed strong profitability
 
