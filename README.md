@@ -19,7 +19,7 @@ The analysis is presented through an interactive Tableau dashboard that visualiz
 
 ## 💡 Key Insights
 
-###📈 Revenue & Operations
+📈 Revenue & Operations
 
 -Discovered a strong inverse relationship between shipment days and revenue - longer delivery times directly correlate with decreased sales
 
